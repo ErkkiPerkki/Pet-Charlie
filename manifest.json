@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Pet Charlie",
+  "description": "Charlie will give you motivational quotes.",
+  "version": "1.0", 
+  "action": {
+    "default_popup": "Popup/popup.html",
+    "default_icon": "Images/charlieicon.png"
+  }
+}
